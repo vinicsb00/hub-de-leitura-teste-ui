@@ -1,0 +1,24 @@
+{
+  "name": "hub-de-leitura-teste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinicsb00/hub-de-leitura-teste.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vinicsb00/hub-de-leitura-teste/issues"
+  },
+  "homepage": "https://github.com/vinicsb00/hub-de-leitura-teste#readme",
+  "dependencies": {
+    "cypress": "^15.19.0"
+  }
+}
